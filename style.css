@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #F2F2F2;
+}
+.container{
+    margin: 98px 0 0 530px;
+    height: 70vh;
+    width: 350px;
+    border: none;
+    background: #FFFFFF;
+    color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 40px 40px 150px 10px #787878 ;
+}
+#heading{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-top: 7px;
+    font-size: 20px;
+    height: 60px;
+    width: 350px;
+    border: none;
+    background: rgb(99,85,193);
+    background: linear-gradient(22deg, rgba(99,85,193,1) 40%, rgba(169,83,186,1) 60%)
+}
+div input{
+    margin-top: 45px;
+    margin-left: 40px;
+    padding: 12px 58px 12px 12px;
+    font-size: 15px;
+    border-radius: 19px;
+    border-color: #C8C8C8 ;
+}
+/* div input .passcode{
+    margin-left: 90px;
+    padding: 12px 58px 12px 12px;
+    font-size: 15px;
+    border-radius: 19px;
+    border-color: #C8C8C8 ;
+} */
+ div label{
+    font-size: 19px;
+    color: black;
+ }
+ div .song{
+    font-size: 18px;
+    text-decoration: none;
+    color: blue;
+    margin-left: 35px;
+ }
+ div .main{
+    margin-top: 20px;
+    margin-left: 23px;
+    padding-top: 12px;
+    font-size: 20px;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 50px;
+    background: rgb(99,85,193);
+    background: linear-gradient(22deg, rgba(99,85,193,1) 40%, rgba(169,83,186,1) 60%)  
+ }
+ div p{
+    color: black;
+    margin-left: 115px;
+    margin-top: 10px;
+ }
+ div .remix{
+    text-decoration: none;
+    color: blue;
+    margin-left: 124px;
+ }
